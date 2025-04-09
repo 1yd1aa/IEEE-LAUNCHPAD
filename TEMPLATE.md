@@ -4,7 +4,7 @@
 
 > I am a results-driven person and I'm eager to contribute my skills to solve challenges. I try to learn and adapt in all kinds of situations that I find myself in. 
 
-Whether working independently or as part of a team, I am committed to delivering meaningful results and fostering meaningful connections.
+> Whether working independently or as part of a team, I am committed to delivering meaningful results and fostering meaningful connections.
 
 
 ## Portfolio Highlights
@@ -24,5 +24,5 @@ Whether working independently or as part of a team, I am committed to delivering
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has immense potential to become a frontrunner in the technology startup ecosystem by leveraging its unique strengths — high literacy, strong digital infrastructure, vibrant talent pool, and progressive governance.
+Kerala has immense potential to become a frontrunner in the technology startup ecosystem by leveraging its unique strengths — high literacy, strong digital infrastructure, vibrant talent pool, and progressive governance.
 We must focus on being not just a consumer of technology but a creator of cutting-edge solutions that solve real-world problems—both local and global. The foundation is strong, and with the right mix of policy, community, and capital, the future of Kerala’s startup ecosystem is very promising.
